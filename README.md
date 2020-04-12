@@ -4,4 +4,4 @@
 - Jenkins
 - VSCode
 - Slack
--Jira
+- Jira
